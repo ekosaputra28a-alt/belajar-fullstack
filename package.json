@@ -1,0 +1,26 @@
+{
+  "name": "belajarfullstack",
+  "version": "1.0.0",
+  "description": "- Nama: Eko Saputra\r - Target: kerja/freelance JS (Next.js + Node + Postgres)\r - Progress: Task 1 setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekosaputra28a-alt/belajar-fullstack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ekosaputra28a-alt/belajar-fullstack/issues"
+  },
+  "homepage": "https://github.com/ekosaputra28a-alt/belajar-fullstack#readme"
+}
+{
+  "name": "belajarfullstack",
+  "type": "module",
+  ...
+}
