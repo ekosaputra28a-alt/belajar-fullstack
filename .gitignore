@@ -1,2 +1,5 @@
 node_modules/
 02-ts-dasar/*.js
+02-ts-dasar/*.d.ts
+02-ts-dasar/*.js.map
+02-ts-dasar/*.d.ts.map
