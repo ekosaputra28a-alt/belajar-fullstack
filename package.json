@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/ekosaputra28a-alt/belajar-fullstack/issues"
   },
-  "homepage": "https://github.com/ekosaputra28a-alt/belajar-fullstack#readme"
+  "homepage": "https://github.com/ekosaputra28a-alt/belajar-fullstack#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "typescript": "^7.0.2"
+  }
 }
